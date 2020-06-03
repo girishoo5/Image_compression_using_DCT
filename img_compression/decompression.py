@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 import math
-# import zigzag functions
 from zigzag import *
 def abc():
     QUANTIZATION_MAT = np.array([[16,11,10,16,24,40,51,61],[12,12,14,19,26,58,60,55],[14,13,16,24,40,57,69,56 ],
