@@ -7,6 +7,7 @@ import compression as p1a
 import decompression as p1b
 import time
 
+
 def convert(seconds):
    seconds = seconds % (24 * 3600)
    seconds %= 3600
