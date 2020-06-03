@@ -15,8 +15,9 @@ as time taken, original image size, compressed file size.
 
 
 # requirements:
-1.tkinter
-2.python3.6
+
+1. tkinter
+2. python3.6
 ==================================================================================
 # How to use:
 1.clone d file into ur system 
