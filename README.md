@@ -7,12 +7,16 @@ When the program is executed, it loads a simple GUI which primarily asks the use
 
 When user press Compress button it starts to compress the photo. After the completion of compressing, the user is given information about compression such as time taken, original image size, compressed file size.
 
-# note: it generates output in grayscale
+# Note: It generates output in grayscale
 
-# requirements:
+# Requirements:
 
-1. tkinter
-2. python3.6
+1. python 3.6 or higher
+2. tkinter (To build GUI)
+3. Opencv-python (Computer Vision Library). 
+4. PIL (Python Imaging Library). 
+5. OS (Python Library to Interact with Operating System). 
+6. Time (Python Library to record run-time).
 
 # How to use:
 1. clone the file into your system 
