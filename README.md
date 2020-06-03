@@ -21,9 +21,9 @@ as time taken, original image size, compressed file size.
 
 
 # How to use:
-1.clone d file into ur system 
-2.open it in visual studio or any editor 
-3.run img-compression.py
-4.make sure the image is present in same directory enter d image name and press on compress
-5.the image wil be compresssed and stored as image.txt
-6.press decompress to get decompressed image frm txt file
+1. clone d file into ur system 
+2. open it in visual studio or any editor 
+3. run img-compression.py
+4. make sure the image is present in same directory enter d image name and press on compress
+5. the image wil be compresssed and stored as image.txt
+6. press decompress to get decompressed image frm txt file
