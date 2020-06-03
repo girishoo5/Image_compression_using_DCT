@@ -1,4 +1,4 @@
-# Image_compression_using_DCT
+
 # Image-compression-using-DCT
 image compressing using dct impelemted in python with basic interface using tkinter in python
 I’ve used  Discrete Cosine Transform which is also adequate for most compression applications. The discrete cosine transform (DCT) is a mathematical function that transforms digital image data from the spatial domain to the frequency domain.
@@ -11,14 +11,14 @@ completion of compressing, the user is given information about compression such
 as time taken, original image size, compressed file size.
 
 ==================================================================================
-note: it generates output in grayscale
+# note: it generates output in grayscale
 
 
-requirements:
+# requirements:
 1.tkinter
 2.python3.6
 ==================================================================================
-How to use:
+# How to use:
 1.clone d file into ur system 
 2.open it in visual studio or any editor 
 3.run img-compression.py
