@@ -1,0 +1,6 @@
+python 3.6
+tkinter
+PIL
+time
+CV2
+OS
