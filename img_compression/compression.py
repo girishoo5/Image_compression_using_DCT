@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 import math
 from zigzag import*
+
 def get_run_length_encoding(image):
     i = 0
     skip = 0
